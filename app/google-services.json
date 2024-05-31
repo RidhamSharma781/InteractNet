@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11119560572",
+    "project_id": "interactnet-824ae",
+    "storage_bucket": "interactnet-824ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11119560572:android:d87896cad66b80b89306f9",
+        "android_client_info": {
+          "package_name": "com.androiod.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11119560572-ke81h2q9vm6svp87mt2tpit6efno64hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNL5Si8ZMIAg9eOjqPcz8BjK7NehBWWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11119560572-ke81h2q9vm6svp87mt2tpit6efno64hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
